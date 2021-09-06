@@ -85,8 +85,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+Our paper idea is simple, so our costume device could easily match it. 
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+After acting out the details of turning on and off a light, we figure out that the light should be placed next to the doorknow for better visibility. 
 
 ## Part C. Prototype the device
 
@@ -99,7 +102,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+Tinkerbelle could not run smoothly on Mac. 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -126,9 +129,11 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+https://www.youtube.com/watch?v=yaJoGvfSGLI
+
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+Ka Wing Lui (kl647)
 
 
 # Staging Interaction, Part 2 
