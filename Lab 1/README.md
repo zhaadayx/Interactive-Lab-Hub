@@ -169,6 +169,8 @@ Video Link: https://youtu.be/msT9CEgVr8k
 
 ![Image of Storyboard] 
 (https://github.com/zhaadayx/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
+
+
 ![Image of Costuming Devices] 
 (https://github.com/zhaadayx/Interactive-Lab-Hub/blob/Fall2021/Lab%201/bathroom.jpg)
 
