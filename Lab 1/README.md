@@ -165,6 +165,8 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+![Image of Storyboard] (https://github.com/zhaadayx/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
+![Image of Costuming Devices] (https://github.com/zhaadayx/Interactive-Lab-Hub/blob/Fall2021/Lab%201/bathroom.jpg)
 _Setting:_ 
 The interaction happens at the bathroom in the public places, such as shopping malls, parks, and schools. It is happenning when anyone, especially female, is using the bathroom. 
 
