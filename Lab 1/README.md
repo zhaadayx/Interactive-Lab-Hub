@@ -165,13 +165,13 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+_Setting:_ 
 The interaction happens at the bathroom in the public places, such as shopping malls, parks, and schools. It is happenning when anyone, especially female, is using the bathroom. 
 
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+_Players:_ If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
 People using the bathroom, especially females, are involed in the interaction. Other people involving in the interation include administrative staffs of the public places. For instance, at the bathroom of a shopping mall, the cleaner and the administrative staffs of the property company will take the responisibility to give help to the users of bathroom. 
 
-_Activity:_ What is happening between the actors?
+_Activity:_ 
 Before the actor of the user enter the bathroom, the light is green, telling her that the bathroom is available. When she enter the bathroom, the light turns yellow. When she need sanity napkins, she will press a button inside the bathroom and the light will turn pink. Someone from the administrative team will help her. When she encounter any emergencies, such as threat over her personal safety, she will press another button inside the bathroom and the light will turn red, accompanying with a warning sound. Then other people close to her or the administrative staffs will receive her message and help her. 
 
 _Goals:_ 
