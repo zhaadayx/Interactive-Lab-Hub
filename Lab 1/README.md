@@ -165,4 +165,24 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+The interaction happens at the bathroom in the public places, such as shopping malls, parks, and schools. It is happenning when anyone, especially female, is using the bathroom. 
 
+_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+People using the bathroom, especially females, are involed in the interaction. Other people involving in the interation include administrative staffs of the public places. For instance, at the bathroom of a shopping mall, the cleaner and the administrative staffs of the property company will take the responisibility to give help to the users of bathroom. 
+
+_Activity:_ What is happening between the actors?
+Before the actor of the user enter the bathroom, the light is green, telling her that the bathroom is available. When she enter the bathroom, the light turns yellow. When she need sanity napkins, she will press a button inside the bathroom and the light will turn pink. Someone from the administrative team will help her. When she encounter any emergencies, such as threat over her personal safety, she will press another button inside the bathroom and the light will turn red, accompanying with a warning sound. Then other people close to her or the administrative staffs will receive her message and help her. 
+
+_Goals:_ 
+Our design is a light on the door of the bathroom. The ligh is green when the bathroom is empty and turns yellow when someone is inside. The device is able to help users of the bathroom to know which bathroom is empty. 
+
+With the increasing cases threatening female's safety happening in the society, we feel an urge to protect females in dangerous situation. Bathroom is nowadays one of the public place contatining potential danger, since no one can see what's happening inside the bathroom. Our design will enable female to ask for help in emergency situation in an easy but effective way. 
+
+_Mechanism:_ 
+In our ideal design, there will be one sensor attached to the door of bathroom, tracking people entering or exiting the bathroom and linked to the light. 
+
+_Improvements:_ 
+Our original design is merely a light that will turn on when people is in use of the bathroom and turn off when people left. 
+Based on the feedback of our partnering groups, we desided to make some improvements by utilizing different colors of the light to add more functions to the device. 
+Now we add pink, green, and red color to present different functions. 
